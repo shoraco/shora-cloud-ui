@@ -67,7 +67,7 @@ function MyComponent() {
 
 ## 📚 Documentation
 
-Visit our [Storybook](https://ui.shoracloud.com) for interactive documentation and examples.
+Visit our [Storybook](https://ui.shora.cloud) for interactive documentation and examples.
 
 ## 🎯 Goals
 
@@ -93,10 +93,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support
 
-- 📧 Email: support@shoracloud.com
+- 📧 Email: support@shora.cloud
 - 💬 Discord: [Join our community](https://discord.gg/shoracloud)
 - 🐦 Twitter: [@ShoraCloud](https://twitter.com/shoracloud)
 
 ## 🏢 Company
 
-Shora Cloud UI is developed by Shora Technology Inc.
+Shora Cloud UI is developed by Svenca LTD
